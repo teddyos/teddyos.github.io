@@ -424,12 +424,10 @@ export default {
         },
         {
           name: "Repository",
-          link: "https://github.com/localdesktop/localdesktop",
+          link: "https://github.com/localdesktop/localdesktop.github.io",
         },
       ],
-      screenshots: [
-        "https://github.com/localdesktop/localdesktop/raw/main/assets/docs/proof-of-concept.png",
-      ],
+      screenshots: ["https://localdesktop.github.io/img/proof-of-concept.png"],
       personal: true,
     },
     {
